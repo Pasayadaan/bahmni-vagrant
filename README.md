@@ -1,7 +1,7 @@
 # bahmni-vagrant
 
 Management of Vagrant box using Packer.  Out-Of-The-Box bahmni on CentOS 6.8
-
+For more options on [setting debug environment](https://bahmni.atlassian.net/wiki/spaces/BAH/pages/32604585/Setting+up+Bahmni+Dev+Environment#SettingupBahmniDevEnvironment-Debug/ExtendBahmniJavamodules)
 
 # Vagrant / Virtual Box Setup for Bahmni
 
